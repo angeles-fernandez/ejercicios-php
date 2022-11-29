@@ -12,8 +12,7 @@
     <main>
         <ul>
             <li><a href="/Ejercicio2.php">Ejercicio 2</a></li>
-            <li><a href="/Ejercicio1">Ejercicio 1</a></li>
-            <li><a href="/Ejercicio1">Ejercicio 1</a></li>
+            <li><a href="/tarea3.php">Ejercicio 3</a></li>
         </ul>
     </main>
 
